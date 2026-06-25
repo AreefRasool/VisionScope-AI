@@ -55,17 +55,15 @@ Whether you're exploring computer vision, testing AI models, or showcasing objec
 
 ---
 
-## 🖥️ Tech Stack
-
-| Tool        | Purpose                    |
-| ----------- | -------------------------- |
-| YOLOv8      | Real-Time Object Detection |
-| Gradio      | Interactive Web Dashboard  |
-| Plotly      | Analytics & Visualizations |
-| OpenCV      | Image Processing           |
-| NumPy       | Numerical Operations       |
-| Pandas      | Data Handling              |
-| Python 3.9+ | Core Application Logic     |
+| Tool | Purpose |
+|------|---------|
+| [YOLOv8](https://github.com/ultralytics/ultralytics) | Real-Time Object Detection |
+| [Gradio](https://www.gradio.app/) | Interactive Web Dashboard |
+| [Plotly](https://plotly.com/python/) | Analytics & Visualizations |
+| [OpenCV](https://opencv.org/) | Image Processing |
+| [NumPy](https://numpy.org/) | Numerical Operations |
+| [Pandas](https://pandas.pydata.org/) | Data Handling |
+| Python 3.9+ | Core Application Logic |
 
 ---
 
