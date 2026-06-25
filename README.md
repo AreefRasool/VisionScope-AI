@@ -154,4 +154,4 @@ AI Developer | Computer Vision Enthusiast | Building Modern AI Applications
 
 ## 📄 License
 
-This project is open-source and available under the MIT License.
+This project is open-source and available under the [MIT License](LICENSE).
