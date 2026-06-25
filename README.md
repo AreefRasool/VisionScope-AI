@@ -146,7 +146,7 @@ Tracks:
 
 **Areef Rasool**
 
-AI Developer | Computer Vision Enthusiast | Building Modern AI Applications
+BSAI Student | AI, Development & Networking Enthusiast
 
 ---
 
